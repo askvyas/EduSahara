@@ -1,12 +1,19 @@
 .navbar-clean
 {
-  background: blue;
+  background: transparent;
+  color:red;
 }
-#demo
+#navText
 {
-  background: red;
+  color: black;
 }
-.jumbotron-fluid
+.jmbo
 {
-  
+  margin-top: 25%;
+  margin-bottom: 25%;
+}
+.jumbotron-fluid {
+  background-image: url("/Users/askvyas/Desktop/Certif/math1.jpg");
+  background-size: cover;
+  text-align: center;
 }
