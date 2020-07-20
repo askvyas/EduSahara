@@ -1,11 +1,16 @@
-.navbar-clean
-{
-  background: transparent;
-  color:red;
-}
 #navText
 {
   color: black;
+}
+.display-4
+{
+  font-size: 60px;
+  color: rgba(0, 0, 0);
+}
+.lead
+{
+  font-size: 40px;
+color: rgba(0,0,0)
 }
 .jmbo
 {
@@ -14,6 +19,66 @@
 }
 .jumbotron-fluid {
   background-image: url("/Users/askvyas/Desktop/Certif/math1.jpg");
+
   background-size: cover;
   text-align: center;
+}
+.footer
+{
+    background-color: rgba(0, 186, 237);
+    margin: 0px auto;
+    padding: 20px 0 20px 0;
+    font-size: 20px;
+
+}
+.address
+{
+    font-size: 80%;
+    margin: 0;
+    color: #0F0F;
+}
+.copyright
+{
+  text-align: center;
+}
+
+
+
+.row-header
+{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.row-content
+{
+    margin: 0 auto;
+    padding: 50px 0 50px 0px;
+        border-bottom: 1px ridge;
+        min-height: 400px;
+}
+
+
+input[type="radio"]{
+  margin: 0 10px 0 10px;
+}
+.tab-content
+{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.versions li
+{
+color: rgba(0, 0, 0);
+font-size: 25px;
+}
+p
+{
+  font-size: 30px;
+}
+#navText
+{
+  font-size: 20px;
 }
